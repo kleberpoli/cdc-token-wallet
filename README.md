@@ -30,4 +30,4 @@ Este projeto implementa uma **Carteira de Tokens Simples** utilizando Cadence. U
 - Suporte a múltiplas assinaturas para operações em carteiras.
 
 ## Licença
-MIT License
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
